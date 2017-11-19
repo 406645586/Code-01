@@ -1,0 +1,21 @@
+﻿  趣味俄罗斯方块.cpp
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(422): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(540): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(542): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(600): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(602): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(657): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(515): warning C4101: “n”: 未引用的局部变量
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(729): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(912): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\daima\c\code\01\project\趣味俄罗斯方块.cpp(953): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+趣味俄罗斯方块.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  趣味俄罗斯方块.vcxproj -> F:\daima\C\Code\01\Project\.\Debug\趣味俄罗斯方块.exe
